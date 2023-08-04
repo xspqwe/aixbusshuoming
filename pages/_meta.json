@@ -1,15 +1,15 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "主页",
+  "another": "使用守则",
+  "advanced": "使用手册",
   "about": {
-    "title": "About",
+    "title": "关于",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "联系AI小巴士 ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zu9GwYV_G4QoaAgLLHupQe6uhVkRHLS4&authKey=PdnVbJpRjMd7Cc%2BjIq2eoKxC3WcZ8fb8NcgAuD8R5hTmmQdgVzhQwKmMNF2OwjcL&noverify=0&group_code=594122721",
     "newWindow": true
   }
 }
